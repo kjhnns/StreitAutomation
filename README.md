@@ -9,3 +9,6 @@ Streit V1 Automation scripts using pywinauto
 
 # Create an Executable
 `pyinstaller -F GutschriftMove.pyw`
+
+
+Where -F stands for generate one executable file.
