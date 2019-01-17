@@ -13,7 +13,6 @@ def message(text):
 
 
 # based on http://www.label-software.de/wp-content/uploads/2017/03/ugl_schnittstelle.pdf
-
 def main():
     print(uglImportFolder)
     if os.path.isdir(uglImportFolder):
